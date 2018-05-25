@@ -10,12 +10,12 @@ h1 {
   font-size: 50px;
 }
 
-h2, p {
+p {
   font-family: verdana;
   color: white;
 }
 
-h3 {
+h2 {
   font-family: verdana;
   color: white;
   font-weight: 300;
